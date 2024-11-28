@@ -1,0 +1,10 @@
+node_modules
+.expo
+.expo-shared
+build
+dist
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+scripts
